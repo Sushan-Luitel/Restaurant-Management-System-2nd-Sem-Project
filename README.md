@@ -1,1 +1,1 @@
-# RMS
+This is a Restaurant Management System developed using C++ with the Qt framework and SQLite database. The project allows managing menu items, categories, and customer orders through a user-friendly interface. It was created as part of my 2nd semester project to practice object-oriented programming, GUI development, and database integration
