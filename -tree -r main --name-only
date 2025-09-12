@@ -1,0 +1,61 @@
+[33m0149b0e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m final
+[33ma6c4a7e[m Functionality completed
+[33ma065135[m ui complete
+[33ma5a1604[m before orders page
+[33m5dc7eb5[m ui managed
+[33md4011a3[m ui updated
+[33m089cd85[m profile
+[33m15e2bef[m kk
+[33m5678bff[m removed ds store from git
+[33mf533000[m removed ds store
+[33mfa66feb[m intermediate checkpoint
+[33m8e6e505[m resize of windows
+[33m8befb4e[m kk
+[33m8ae2bfd[m checkpoint for role management
+[33m91ce9db[m bug fixes
+[33m65a0510[m orders access for different roles
+[33mc2392f0[m orders page update and minor access work
+[33meef99b2[m access according to roles
+[33md924eab[m adjusts for deployment
+[33m469fb75[m kk
+[33mdd91851[m minor bugs fixed
+[33m0beb94b[m little ui changes
+[33md839a78[m seq update
+[33m1f47702[m before seq work
+[33m1a02892[m password hide and normal
+[33me1c9af1[m login page assets
+[33mc9cd1bc[m login
+[33mbc3c41f[m setting up login screen
+[33m755ce55[m data insertions
+[33m3bb132c[m kk
+[33m3ded204[m db data insert
+[33mdf975c4[m support of .webp image
+[33m7f0052d[m minor fixes
+[33m00a92ef[m fixed placeholder
+[33mae0a0e8[m code is running fine
+[33me90882c[m buggy version
+[33md6efa00[m adding db to git
+[33me45550e[m merged all
+[33mdb1edf1[m kk
+[33me06160f[m all files
+[33m41e9c4b[m db changes
+[33m78cfb32[m db changes
+[33mcd0f7c8[m db changes
+[33m24f35c6[m removing db from git
+[33m787f879[m Untrack and ignore RmsApp.db permanently
+[33ma0e1121[m Resolved merge conflict: kept remote version of RmsApp.db
+[33m35b1b6c[m Remove RmsApp.db from tracking and ignore it
+[33mcef03bc[m minor fixes
+[33m6a28981[m Merge pull request #1 from dev-pratik02/pratik
+[33mea12500[m kk
+[33m31ec0db[m orders module completed in functionality
+[33mc23833d[m Db added to orders
+[33m0e4cc7c[m Orders design complete
+[33m2cc62c1[m database
+[33ma053715[m Orders are displayed correctly
+[33m1621245[m orders
+[33md4a1371[m kk
+[33m3adfc71[m made new files
+[33m714fc90[m adding qt
+[33m06dcc02[m initialize
+[33ma01942b[m Initial commit
