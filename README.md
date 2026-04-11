@@ -1,63 +1,61 @@
-# Moodle-Based Student Consistency Tracking System
+# Restaurant Management System (RMS)
 
 ## 📌 Overview
 
-This project is a custom Moodle plugin designed to track and analyze student engagement in an e-learning environment. It calculates a daily consistency score based on user activity and enhances quiz integrity through monitoring mechanisms.
+A desktop-based Restaurant Management System built using C++ (Qt) and SQLite to manage restaurant operations including orders, staff, menu, and billing.
 
 ## 🚀 Features
 
-* 📊 Real-time activity tracking (notes, videos, assignments, quizzes)
-* 📈 Daily consistency score calculation
-* 📉 Interactive charts (line & pie) for performance visualization
-* 🧑‍💻 Face detection during quizzes
-* ⚠️ Tab-switch monitoring with warnings and auto-submit
-* 🏆 Leaderboard system for ranking users
-* 🔔 Live notifications using toast messages
-* 🎨 Customized Moodle UI (login, dashboard)
+* 🔐 Secure authentication system (hashed credentials)
+* 👥 Role-based access (Manager, Waiter, Kitchen Staff)
+* 🧾 POS system for order processing and billing
+* 🍔 Menu management with categories and pricing
+* 🪑 Table management (availability tracking)
+* 🧑‍🍳 Order status tracking (Preparing, Ready, Served)
+* 🗂️ Staff management system
+* 🔄 Full CRUD database operations
 
 ## 🛠️ Tech Stack
 
-* **Backend:** PHP (Moodle Plugin Development)
-* **Frontend:** JavaScript
-* **Database:** Moodle Database (MySQL)
-* **Other:** Chart libraries, browser APIs (camera, tab tracking)
+* **Language:** C++
+* **Framework:** Qt
+* **Database:** SQLite
+* **Design:** Figma
+* **Version Control:** Git
 
 ## ⚙️ Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/moodle-consistency-plugin.git
+   git clone https://github.com/yourusername/restaurant-management-system.git
    ```
-2. Place the plugin in:
+2. Open project in Qt Creator
+3. Configure SQLite database
+4. Build and run the application
 
-   ```
-   moodle/local/consistencyscore
-   ```
-3. Visit Moodle admin panel → Install plugin
-4. Configure settings as required
+## 📊 System Modules
 
-## 📊 How It Works
-
-* Tracks login/logout, time spent, submissions
-* Stores logs in database
-* Calculates daily engagement score
-* Displays results via charts and leaderboard
+* Authentication Module
+* Staff Management
+* Menu Management
+* Table Management
+* Order Processing (POS)
 
 ## 🎯 Key Learning Outcomes
 
-* Moodle plugin architecture
-* Real-time tracking systems
-* Data visualization techniques
-* Browser-based monitoring (face detection, tab tracking)
+* Desktop application development using Qt
+* Database integration with SQLite
+* Role-based system design
+* Real-world business logic implementation
+* Team collaboration using Git
 
 ## 🔮 Future Improvements
 
-* AI-based cheating detection
-* Advanced analytics dashboard
-* Mobile compatibility
+* Reservation system
+* Sales & analytics dashboard
+* UI/UX improvements
 
 ## 👨‍💻 Author
 
 Sushan Luitel
-
