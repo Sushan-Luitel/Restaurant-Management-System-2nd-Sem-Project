@@ -28,7 +28,7 @@ A desktop-based Restaurant Management System built using C++ (Qt) and SQLite to 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/restaurant-management-system.git
+   git clone https://github.com/Sushan-Luitel/restaurant-management-system.git
    ```
 2. Open project in Qt Creator
 3. Configure SQLite database
